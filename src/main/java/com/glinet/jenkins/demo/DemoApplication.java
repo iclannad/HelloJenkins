@@ -19,7 +19,7 @@ public class DemoApplication {
     @RequestMapping(value = "/get", method = GET)
     @ResponseBody
     public String get() {
-        return "Hello Jenkins-------222222";
+        return "Hello Jenkins-------33333333333333";
     }
 
 }
